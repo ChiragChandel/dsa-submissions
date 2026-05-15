@@ -1,4 +1,4 @@
-# DSA Grind — @ChiragChandel
+# DSA Grind
 
 Just me solving DSA problems one bug, one WA, and one accepted submission at a time.
 
